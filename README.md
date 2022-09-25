@@ -9,8 +9,8 @@ Personal finance applications will ask users to add their expenses and based on 
 
 
 
-🧑🏻‍ TEAM MEMBERS
-Hagith D
-Yashaswini C
-Thala Muthu Manivel A
-Avinash G
+🧑🏻‍ TEAM MEMBERS:
+Hagith D,
+Yashaswini C,
+Thala Muthu Manivel A,
+Avinash G.
